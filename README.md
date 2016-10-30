@@ -1,2 +1,4 @@
 # hello-world
-Just another repository practicing github
+
+Just practising github. So, I am writing anything related to github.
+Date: 20161230
